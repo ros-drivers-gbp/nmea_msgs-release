@@ -1,0 +1,12 @@
+Source: ros-kinetic-nmea-msgs
+Section: misc
+Priority: extra
+Maintainer: Eric Perko <eric@ericperko.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-message-generation, ros-kinetic-std-msgs
+Homepage: http://ros.org/wiki/nmea_msgs
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-nmea-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-message-runtime, ros-kinetic-std-msgs
+Description: The nmea_msgs package contains messages related to data in the NMEA format.
