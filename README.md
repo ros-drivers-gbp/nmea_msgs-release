@@ -1,3 +1,26 @@
+## nmea_msgs (lunar) - 1.1.0-0
+
+The packages in the `nmea_msgs` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -t lunar -r lunar -e nmea_msgs` on `Fri, 08 Dec 2017 16:46:51 -0000`
+
+The `nmea_msgs` package was released.
+
+Version of package(s) in repository `nmea_msgs`:
+
+- upstream repository: https://github.com/ros-drivers/nmea_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.1.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## nmea_msgs (kinetic) - 1.1.0-0
 
 The packages in the `nmea_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -t kinetic -r kinetic -e nmea_msgs` on `Fri, 08 Dec 2017 15:41:27 -0000`
