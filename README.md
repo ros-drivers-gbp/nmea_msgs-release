@@ -1,3 +1,26 @@
+## nmea_msgs (kinetic) - 1.1.0-0
+
+The packages in the `nmea_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -t kinetic -r kinetic -e nmea_msgs` on `Fri, 08 Dec 2017 15:41:27 -0000`
+
+The `nmea_msgs` package was released.
+
+Version of package(s) in repository `nmea_msgs`:
+
+- upstream repository: https://github.com/ros-drivers/nmea_msgs.git
+- release repository: https://github.com/ros-drivers-gbp/nmea_msgs-release.git
+- rosdistro version: `1.0.0-0`
+- old version: `1.0.0-0`
+- new version: `1.1.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## nmea_msgs (indigo) - 1.1.0-0
 
 The packages in the `nmea_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -t indigo -r indigo -e nmea_msgs` on `Fri, 08 Dec 2017 15:20:26 -0000`
